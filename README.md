@@ -54,7 +54,6 @@ By spotting customers likely to leave, the company can take early action to keep
 4. Open your browser and go to:
    `http://localhost:8501`
 
-📸 *See app screenshots in `3_Screenshots/` or check out the visual summary in `1_Report.pdf`*
 
 ---
 
@@ -69,7 +68,7 @@ By spotting customers likely to leave, the company can take early action to keep
 
 ## 📬 Contact
 
-* 🐙 GitHub: [github.com/yourusername](https://github.com/devarajma)
+* 🐙 GitHub: [github.com/devarajma](https://github.com/devarajma)
 
 ---
 
