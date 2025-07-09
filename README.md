@@ -1,6 +1,6 @@
 # 📞 Telco Customer Churn Predictor
 
-**By: \Devarajan M A**
+**By: Devarajan M A**
 
 ---
 
